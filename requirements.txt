@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+mlflow
+yfinance
+scipy
+numpy
+pandas
